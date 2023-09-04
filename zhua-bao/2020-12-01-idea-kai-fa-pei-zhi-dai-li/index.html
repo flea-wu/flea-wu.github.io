@@ -17,21 +17,24 @@
   <meta http-equiv="window-target" content="_top">
   
   
-  <title>Java 锁总结 | 五百匹跳蚤</title>
-  <meta name="description" content="Java 锁总结 1.什么是悲观锁： 在多线程操作共享资源时，一次只能一个线程访问，从源头解决线程并发带来的错误影响 例子：A 写的时候，B不能读和写 实现方式： synchronize 关键字或 ReentrantLock reentrantLock = new ReentrantLock(false); 2.什么是乐观锁： 在多线程操作共享资源时，可以有多个线程访问，操作共享资源时再进行判断，">
-<meta name="keywords" content="并发,多线程">
+  <title>Idea 开发配置代理 | 五百匹跳蚤</title>
+  <meta name="description" content="Idea 开发配置代理 起因 因为本猿在开发代码中，遇到一个问题：在抓取第三方接口时，本地测试 OK 到生产环境中却不行，代码都是一份，但线上环境却不能正常使用，怀疑是线上是服务器 ip ，线上服务器 ip 会被识别，故想将本地环境模拟成线上环境发请求。 配置 1.打开 idea 设置，快捷键（command + ,）  2.在输入框中输入 proxy">
+<meta name="keywords" content="代理">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Java 锁总结">
-<meta property="og:url" content="http://www.wzzzzzz.com/suo/2020-12-20-java-suo-zong-jie/index.html">
+<meta property="og:title" content="Idea 开发配置代理">
+<meta property="og:url" content="http://www.wzzzzzz.com/zhua-bao/2020-12-01-idea-kai-fa-pei-zhi-dai-li/index.html">
 <meta property="og:site_name" content="五百匹跳蚤">
-<meta property="og:description" content="Java 锁总结 1.什么是悲观锁： 在多线程操作共享资源时，一次只能一个线程访问，从源头解决线程并发带来的错误影响 例子：A 写的时候，B不能读和写 实现方式： synchronize 关键字或 ReentrantLock reentrantLock = new ReentrantLock(false); 2.什么是乐观锁： 在多线程操作共享资源时，可以有多个线程访问，操作共享资源时再进行判断，">
+<meta property="og:description" content="Idea 开发配置代理 起因 因为本猿在开发代码中，遇到一个问题：在抓取第三方接口时，本地测试 OK 到生产环境中却不行，代码都是一份，但线上环境却不能正常使用，怀疑是线上是服务器 ip ，线上服务器 ip 会被识别，故想将本地环境模拟成线上环境发请求。 配置 1.打开 idea 设置，快捷键（command + ,）  2.在输入框中输入 proxy">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2020-12-20T16:17:11.000Z">
+<meta property="og:image" content="https://img.nbjike.com/jietu/20201201222034.png">
+<meta property="og:image" content="https://img.nbjike.com/jietu/20201201222622.png">
+<meta property="og:updated_time" content="2023-09-04T14:35:17.025Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Java 锁总结">
-<meta name="twitter:description" content="Java 锁总结 1.什么是悲观锁： 在多线程操作共享资源时，一次只能一个线程访问，从源头解决线程并发带来的错误影响 例子：A 写的时候，B不能读和写 实现方式： synchronize 关键字或 ReentrantLock reentrantLock = new ReentrantLock(false); 2.什么是乐观锁： 在多线程操作共享资源时，可以有多个线程访问，操作共享资源时再进行判断，">
+<meta name="twitter:title" content="Idea 开发配置代理">
+<meta name="twitter:description" content="Idea 开发配置代理 起因 因为本猿在开发代码中，遇到一个问题：在抓取第三方接口时，本地测试 OK 到生产环境中却不行，代码都是一份，但线上环境却不能正常使用，怀疑是线上是服务器 ip ，线上服务器 ip 会被识别，故想将本地环境模拟成线上环境发请求。 配置 1.打开 idea 设置，快捷键（command + ,）  2.在输入框中输入 proxy">
+<meta name="twitter:image" content="https://img.nbjike.com/jietu/20201201222034.png">
   <!-- Canonical links -->
-  <link rel="canonical" href="http://www.wzzzzzz.com/suo/2020-12-20-java-suo-zong-jie/index.html">
+  <link rel="canonical" href="http://www.wzzzzzz.com/zhua-bao/2020-12-01-idea-kai-fa-pei-zhi-dai-li/index.html">
   
     <link rel="alternate" href="/atom.xml" title="五百匹跳蚤" type="application/atom+xml">
   
@@ -324,14 +327,14 @@
   
 <main class="main" role="main">
   <div class="content">
-  <article id="post-2020-12-20-Java-锁总结" class="article article-type-post" itemscope itemtype="http://schema.org/BlogPosting">
+  <article id="post-2020-12-01-Idea-开发配置代理" class="article article-type-post" itemscope itemtype="http://schema.org/BlogPosting">
     
     <div class="article-header">
       
         
   
     <h1 class="article-title" itemprop="name">
-      Java 锁总结
+      Idea 开发配置代理
     </h1>
   
 
@@ -339,29 +342,29 @@
       <div class="article-meta">
         <span class="article-date">
     <i class="icon icon-calendar-check"></i>
-	<a href="/suo/2020-12-20-java-suo-zong-jie/" class="article-date">
-	  <time datetime="2020-12-20T15:42:41.000Z" itemprop="datePublished">2020-12-20</time>
+	<a href="/zhua-bao/2020-12-01-idea-kai-fa-pei-zhi-dai-li/" class="article-date">
+	  <time datetime="2020-12-01T14:18:41.000Z" itemprop="datePublished">2020-12-01</time>
 	</a>
 </span>
         
   <span class="article-category">
     <i class="icon icon-folder"></i>
-    <a class="article-category-link" href="/categories/锁/">锁</a>
+    <a class="article-category-link" href="/categories/抓包/">抓包</a>
   </span>
 
         
   <span class="article-tag">
     <i class="icon icon-tags"></i>
-	<a class="article-tag-link" href="/tags/多线程/">多线程</a>, <a class="article-tag-link" href="/tags/并发/">并发</a>
+	<a class="article-tag-link" href="/tags/代理/">代理</a>
   </span>
 
 
         
 
-        <span class="post-comment"><i class="icon icon-comment"></i> <a href="/suo/2020-12-20-java-suo-zong-jie/#comments" class="article-comment-link">评论</a></span>
+        <span class="post-comment"><i class="icon icon-comment"></i> <a href="/zhua-bao/2020-12-01-idea-kai-fa-pei-zhi-dai-li/#comments" class="article-comment-link">评论</a></span>
         
 	
-		<span class="post-wordcount hidden-xs" itemprop="wordCount">字数统计: 394(字)</span>
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">字数统计: 124(字)</span>
 	
 	
 		<span class="post-readcount hidden-xs" itemprop="timeRequired">阅读时长: 1(分)</span>
@@ -371,53 +374,14 @@
     </div>
     <div class="article-entry marked-body" itemprop="articleBody">
       
-        <h1><span id="java-锁总结">Java 锁总结</span></h1>
-<h4><span id="1什么是悲观锁">1.什么是悲观锁：</span></h4>
-<p>在多线程操作共享资源时，一次只能一个线程访问，从源头解决线程并发带来的错误影响</p>
-<p>例子：A 写的时候，B不能读和写</p>
-<p>实现方式：</p>
-<p>synchronize 关键字或 ReentrantLock reentrantLock = new ReentrantLock(false);</p>
-<h4><span id="2什么是乐观锁">2.什么是乐观锁：</span></h4>
-<p>在多线程操作共享资源时，可以有多个线程访问，操作共享资源时再进行判断，再进行错误兼容</p>
-<p>例子：A 写的时候，B能读；B 写的时候，发现 A 已经写了，或者 A 写的时候，发现 B 已经写了，报错或者其他异常逻辑</p>
-<p>实现方式：</p>
-<p>一般用 CAS 和 版本控制来实现</p>
-<ul>
-<li>
-<p>什么是 CAS</p>
-<p>全称 Compare and swap，字面意思:”比较并交换“</p>
-<p>例子：</p>
-<pre><code>我们假设内存中的共享变量原数据 A：a = 1，旧的预期值 V：a = 1，需要修改的新值 a = 2。
-由于 A 操作是可以被其他线程所影响的，若 A 操作被其他线程锁影响，将 a 的值改成非 1 ，则 Compare 失败，无法更新
-
-比较 A 与 V 是否相等。（比较）
-
-如果比较相等，将 B 写入 V。（交换）
-
-返回操作是否成功。
-</code></pre>
-</li>
-<li>
-<p>CAS 有什么优缺点</p>
-</li>
-</ul>
-<ul>
-<li>用户态，系统态</li>
-</ul>
-<h4><span id="3什么是自旋锁">3.什么是自旋锁</span></h4>
-<h4><span id="4什么是自适应自旋锁">4.什么是自适应自旋锁</span></h4>
-<h4><span id="5无锁">5.无锁</span></h4>
-<h4><span id></span></h4>
-<h4><span id="6偏向锁">6.偏向锁</span></h4>
-<h4><span id="7轻量级锁">7.轻量级锁</span></h4>
-<h4><span id="8重量级锁">8.重量级锁</span></h4>
-<h4><span id="9公平锁">9.公平锁</span></h4>
-<h4><span id="10非公平锁">10.非公平锁</span></h4>
-<h4><span id="11可重入锁">11.可重入锁</span></h4>
-<h4><span id="12非可重入锁">12.非可重入锁</span></h4>
-<h4><span id="13独享锁">13.独享锁</span></h4>
-<h4><span id="14共享锁">14.共享锁</span></h4>
-<h4><span id="15分段锁">15.分段锁</span></h4>
+        <h1><span id="idea-开发配置代理">Idea 开发配置代理</span></h1>
+<h3><span id="起因">起因</span></h3>
+<p>因为本猿在开发代码中，遇到一个问题：在抓取第三方接口时，本地测试 OK 到生产环境中却不行，代码都是一份，但线上环境却不能正常使用，怀疑是线上是服务器 ip ，线上服务器 ip 会被识别，故想将本地环境模拟成线上环境发请求。</p>
+<h3><span id="配置">配置</span></h3>
+<p>1.打开 idea 设置，快捷键（command + ,）</p>
+<p><img src="https://img.nbjike.com/jietu/20201201222034.png" alt></p>
+<p>2.在输入框中输入 <strong>proxy</strong></p>
+<p><img src="https://img.nbjike.com/jietu/20201201222622.png" alt></p>
 
       
     </div>
@@ -427,7 +391,7 @@
     
     <li class="post-copyright-link hidden-xs">
       <strong>本文链接：</strong>
-      <a href="http://www.wzzzzzz.com/suo/2020-12-20-java-suo-zong-jie/" title="Java 锁总结" target="_blank" rel="external">http://www.wzzzzzz.com/suo/2020-12-20-java-suo-zong-jie/</a>
+      <a href="http://www.wzzzzzz.com/zhua-bao/2020-12-01-idea-kai-fa-pei-zhi-dai-li/" title="Idea 开发配置代理" target="_blank" rel="external">http://www.wzzzzzz.com/zhua-bao/2020-12-01-idea-kai-fa-pei-zhi-dai-li/</a>
     </li>
     
     <li class="post-copyright-license">
@@ -474,12 +438,12 @@
   <ul class="pager pull-left">
     
     <li class="prev">
-      <a href="/sublime/2021-02-17-sublime-xie-java/" title="Sublime 写Java"><i class="icon icon-angle-left" aria-hidden="true"></i><span>&nbsp;&nbsp;上一篇</span></a>
+      <a href="/zhua-bao/dai-li/2020-12-01-postman-pei-zhi-dai-li/" title="Postman 配置代理"><i class="icon icon-angle-left" aria-hidden="true"></i><span>&nbsp;&nbsp;上一篇</span></a>
     </li>
     
     
     <li class="next">
-      <a href="/springboot/knife4j/2020-12-12-springboot-zheng-he-knife4j/" title="Springboot 整合 knife4j"><span>下一篇&nbsp;&nbsp;</span><i class="icon icon-angle-right" aria-hidden="true"></i></a>
+      <a href="/yuan-ma/mybatis/2020-12-01-mybatis-chu-shi-hua-liu-cheng/" title="Mybatis 初始化流程"><span>下一篇&nbsp;&nbsp;</span><i class="icon icon-angle-right" aria-hidden="true"></i></a>
     </li>
     
     

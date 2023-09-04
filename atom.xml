@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>五百匹跳蚤</title>
+  <icon>https://www.gravatar.com/avatar/ba4a4c9ed2a98e1ba0d030ca3449d4a5</icon>
+  <subtitle>Welcome to flea-wu&#39;blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.wzzzzzz.com/"/>
+  <updated>2021-02-18T05:56:36.000Z</updated>
+  <id>http://www.wzzzzzz.com/</id>
+  
+  <author>
+    <name>tiaozao</name>
+    <email>e-mail_address</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Docker 相关命令小计</title>
+    <link href="http://www.wzzzzzz.com/docker/2021-02-18-docker-xiang-guan-ming-ling-xiao-ji/"/>
+    <id>http://www.wzzzzzz.com/docker/2021-02-18-docker-xiang-guan-ming-ling-xiao-ji/</id>
+    <published>2021-02-18T05:53:56.000Z</published>
+    <updated>2021-02-18T05:56:36.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;docker-相关命令小计&quot;&gt;Docker 相关命令小计&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;docker network ls&lt;/p&gt;
+&lt;p&gt;查看创建的网络组&lt;/p&gt;
+&lt;p&gt;docker volume
+        
+      
+    
+    </summary>
+    
+      <category term="docker" scheme="http://www.wzzzzzz.com/categories/docker/"/>
+    
+    
+      <category term="docker" scheme="http://www.wzzzzzz.com/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sublime 写Java</title>
+    <link href="http://www.wzzzzzz.com/sublime/2021-02-17-sublime-xie-java/"/>
+    <id>http://www.wzzzzzz.com/sublime/2021-02-17-sublime-xie-java/</id>
+    <published>2021-02-17T05:53:56.000Z</published>
+    <updated>2021-02-18T06:10:38.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;sublime-写-java&quot;&gt;Sublime 写 Java&lt;/span&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;span id=&quot;1安装jdk&quot;&gt;1.安装JDK&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;官网下载，下载好后直接安装就可以了。&lt;/p&gt;
+&lt;h2&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+      <category term="Sublime" scheme="http://www.wzzzzzz.com/categories/Sublime/"/>
+    
+    
+      <category term="Sublime" scheme="http://www.wzzzzzz.com/tags/Sublime/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 锁总结</title>
+    <link href="http://www.wzzzzzz.com/suo/2020-12-20-java-suo-zong-jie/"/>
+    <id>http://www.wzzzzzz.com/suo/2020-12-20-java-suo-zong-jie/</id>
+    <published>2020-12-20T15:42:41.000Z</published>
+    <updated>2020-12-20T16:17:11.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;java-锁总结&quot;&gt;Java 锁总结&lt;/span&gt;&lt;/h1&gt;
+&lt;h4&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+      <category term="锁" scheme="http://www.wzzzzzz.com/categories/%E9%94%81/"/>
+    
+    
+      <category term="并发" scheme="http://www.wzzzzzz.com/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+      <category term="多线程" scheme="http://www.wzzzzzz.com/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Springboot 整合 knife4j</title>
+    <link href="http://www.wzzzzzz.com/springboot/knife4j/2020-12-12-springboot-zheng-he-knife4j/"/>
+    <id>http://www.wzzzzzz.com/springboot/knife4j/2020-12-12-springboot-zheng-he-knife4j/</id>
+    <published>2020-12-12T07:33:54.000Z</published>
+    <updated>2020-12-17T06:00:14.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;springboot-整合-knife4j&quot;&gt;Springboot 整合
+        
+      
+    
+    </summary>
+    
+      <category term="Springboot" scheme="http://www.wzzzzzz.com/categories/Springboot/"/>
+    
+      <category term="knife4j" scheme="http://www.wzzzzzz.com/categories/Springboot/knife4j/"/>
+    
+    
+      <category term="接口文档" scheme="http://www.wzzzzzz.com/tags/%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用阿里云做代理服务器</title>
+    <link href="http://www.wzzzzzz.com/zhua-bao/dai-li/2020-12-03-shi-yong-a-li-yun-zuo-dai-li-fu-wu-qi/"/>
+    <id>http://www.wzzzzzz.com/zhua-bao/dai-li/2020-12-03-shi-yong-a-li-yun-zuo-dai-li-fu-wu-qi/</id>
+    <published>2020-12-02T16:22:06.000Z</published>
+    <updated>2020-12-12T07:17:47.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+      <category term="抓包" scheme="http://www.wzzzzzz.com/categories/%E6%8A%93%E5%8C%85/"/>
+    
+      <category term="代理" scheme="http://www.wzzzzzz.com/categories/%E6%8A%93%E5%8C%85/%E4%BB%A3%E7%90%86/"/>
+    
+    
+      <category term="代理" scheme="http://www.wzzzzzz.com/tags/%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Postman 配置代理</title>
+    <link href="http://www.wzzzzzz.com/zhua-bao/dai-li/2020-12-01-postman-pei-zhi-dai-li/"/>
+    <id>http://www.wzzzzzz.com/zhua-bao/dai-li/2020-12-01-postman-pei-zhi-dai-li/</id>
+    <published>2020-12-01T14:36:32.000Z</published>
+    <updated>2020-12-12T07:22:10.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;postman-配置代理&quot;&gt;Postman 配置代理&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;1.使用快捷键 command + d 打开设置页面&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="抓包" scheme="http://www.wzzzzzz.com/categories/%E6%8A%93%E5%8C%85/"/>
+    
+      <category term="代理" scheme="http://www.wzzzzzz.com/categories/%E6%8A%93%E5%8C%85/%E4%BB%A3%E7%90%86/"/>
+    
+    
+      <category term="代理" scheme="http://www.wzzzzzz.com/tags/%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Idea 开发配置代理</title>
+    <link href="http://www.wzzzzzz.com/zhua-bao/2020-12-01-idea-kai-fa-pei-zhi-dai-li/"/>
+    <id>http://www.wzzzzzz.com/zhua-bao/2020-12-01-idea-kai-fa-pei-zhi-dai-li/</id>
+    <published>2020-12-01T14:18:41.000Z</published>
+    <updated>2023-09-04T14:35:17.025Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;idea-开发配置代理&quot;&gt;Idea 开发配置代理&lt;/span&gt;&lt;/h1&gt;
+&lt;h3&gt;&lt;span id=&quot;起因&quot;&gt;起因&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;因为本猿在开发代码中，遇到一个问题：在抓取第三方接口时，本地测试 OK
+        
+      
+    
+    </summary>
+    
+      <category term="抓包" scheme="http://www.wzzzzzz.com/categories/%E6%8A%93%E5%8C%85/"/>
+    
+    
+      <category term="代理" scheme="http://www.wzzzzzz.com/tags/%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mybatis 初始化流程</title>
+    <link href="http://www.wzzzzzz.com/yuan-ma/mybatis/2020-12-01-mybatis-chu-shi-hua-liu-cheng/"/>
+    <id>http://www.wzzzzzz.com/yuan-ma/mybatis/2020-12-01-mybatis-chu-shi-hua-liu-cheng/</id>
+    <published>2020-12-01T13:53:27.000Z</published>
+    <updated>2020-12-01T14:12:19.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;mybatis-初始化流程&quot;&gt;Mybatis 初始化流程&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;加载数据源&lt;/p&gt;
+&lt;p&gt;接收一个 DataSource 实例&lt;/p&gt;
+&lt;p&gt;创建 SqlSessionFactoryBean
+        
+      
+    
+    </summary>
+    
+      <category term="源码" scheme="http://www.wzzzzzz.com/categories/%E6%BA%90%E7%A0%81/"/>
+    
+      <category term="Mybatis" scheme="http://www.wzzzzzz.com/categories/%E6%BA%90%E7%A0%81/Mybatis/"/>
+    
+    
+      <category term="Mybatis" scheme="http://www.wzzzzzz.com/tags/Mybatis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring ApplicationListener 作用</title>
+    <link href="http://www.wzzzzzz.com/yuan-ma/spring/2020-12-01-spring-applicationlistener-zuo-yong/"/>
+    <id>http://www.wzzzzzz.com/yuan-ma/spring/2020-12-01-spring-applicationlistener-zuo-yong/</id>
+    <published>2020-12-01T13:50:14.000Z</published>
+    <updated>2020-12-01T13:52:22.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;spring-applicationlistener-作用&quot;&gt;Spring ApplicationListener 作用&lt;/span&gt;&lt;/h1&gt;
+&lt;h3&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+      <category term="源码" scheme="http://www.wzzzzzz.com/categories/%E6%BA%90%E7%A0%81/"/>
+    
+      <category term="Spring" scheme="http://www.wzzzzzz.com/categories/%E6%BA%90%E7%A0%81/Spring/"/>
+    
+    
+      <category term="Spring" scheme="http://www.wzzzzzz.com/tags/Spring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>notify和notifyAll区别</title>
+    <link href="http://www.wzzzzzz.com/java-ji-chu/2020-11-28-notify-he-notifyall-qu-bie/"/>
+    <id>http://www.wzzzzzz.com/java-ji-chu/2020-11-28-notify-he-notifyall-qu-bie/</id>
+    <published>2020-11-28T13:43:17.000Z</published>
+    <updated>2020-11-28T13:46:03.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;java-线程-notify和notifyall区别&quot;&gt;Java 线程
+        
+      
+    
+    </summary>
+    
+      <category term="Java基础" scheme="http://www.wzzzzzz.com/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="并发" scheme="http://www.wzzzzzz.com/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+      <category term="多线程" scheme="http://www.wzzzzzz.com/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iterm2+oh-my-zsh内容太多时显示不完全</title>
+    <link href="http://www.wzzzzzz.com/iterm2/mac/2020-11-28-iterm2-oh-my-zsh-nei-rong-tai-duo-shi-xian-shi-bu-wan-quan/"/>
+    <id>http://www.wzzzzzz.com/iterm2/mac/2020-11-28-iterm2-oh-my-zsh-nei-rong-tai-duo-shi-xian-shi-bu-wan-quan/</id>
+    <published>2020-11-28T11:53:32.000Z</published>
+    <updated>2023-09-03T14:43:23.371Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;iterm2oh-my-zsh内容太多时显示不完全&quot;&gt;iterm2+oh-my-zsh内容太多时显示不完全&lt;/span&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;按 command +  ,  唤出 iterm2
+        
+      
+    
+    </summary>
+    
+      <category term="iterm2" scheme="http://www.wzzzzzz.com/categories/iterm2/"/>
+    
+      <category term="Mac" scheme="http://www.wzzzzzz.com/categories/iterm2/Mac/"/>
+    
+    
+      <category term="oh-my-zsh" scheme="http://www.wzzzzzz.com/tags/oh-my-zsh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线程（一）线程通信</title>
+    <link href="http://www.wzzzzzz.com/java-ji-chu/2020-11-28-xian-cheng-yi-xian-cheng-tong-xin/"/>
+    <id>http://www.wzzzzzz.com/java-ji-chu/2020-11-28-xian-cheng-yi-xian-cheng-tong-xin/</id>
+    <published>2020-11-28T08:34:50.000Z</published>
+    <updated>2020-11-28T11:51:13.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+      <category term="Java基础" scheme="http://www.wzzzzzz.com/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="并发" scheme="http://www.wzzzzzz.com/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+      <category term="多线程" scheme="http://www.wzzzzzz.com/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mybatis 源码（一）</title>
+    <link href="http://www.wzzzzzz.com/mybatis/2020-11-27-mybatis-yuan-ma-yi/"/>
+    <id>http://www.wzzzzzz.com/mybatis/2020-11-27-mybatis-yuan-ma-yi/</id>
+    <published>2020-11-27T14:57:10.000Z</published>
+    <updated>2023-09-03T14:43:23.367Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;mybatis-源码一&quot;&gt;Mybatis 源码（一）&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;MapperMethod 有两个内容部类：&lt;/p&gt;
+&lt;p&gt;SqlCommand 是 MapperMethod
+        
+      
+    
+    </summary>
+    
+      <category term="Mybatis" scheme="http://www.wzzzzzz.com/categories/Mybatis/"/>
+    
+    
+      <category term="Mybatis" scheme="http://www.wzzzzzz.com/tags/Mybatis/"/>
+    
+      <category term="源码" scheme="http://www.wzzzzzz.com/tags/%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring MVC中的Controller是Serlvet吗？</title>
+    <link href="http://www.wzzzzzz.com/spring/2020-11-23-spring-mvc-zhong-de-controller-shi-serlvet-ma/"/>
+    <id>http://www.wzzzzzz.com/spring/2020-11-23-spring-mvc-zhong-de-controller-shi-serlvet-ma/</id>
+    <published>2020-11-23T13:28:21.000Z</published>
+    <updated>2023-09-03T14:43:23.372Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;spring-mvc中的controller是serlvet吗&quot;&gt;Spring MVC中的Controller是Serlvet吗？&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;不是。&lt;/p&gt;
+&lt;p&gt;Controller 是一个处理请求的 Java bean
+        
+      
+    
+    </summary>
+    
+      <category term="Spring" scheme="http://www.wzzzzzz.com/categories/Spring/"/>
+    
+    
+      <category term="SpringMVC" scheme="http://www.wzzzzzz.com/tags/SpringMVC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mysql 自增 id 的问题</title>
+    <link href="http://www.wzzzzzz.com/mysql/2020-11-23-mysql-zi-zeng-id-de-wen-ti/"/>
+    <id>http://www.wzzzzzz.com/mysql/2020-11-23-mysql-zi-zeng-id-de-wen-ti/</id>
+    <published>2020-11-23T08:18:50.000Z</published>
+    <updated>2023-09-03T14:43:23.369Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;mysql-自增-id-的问题&quot;&gt;Mysql 自增 id 的问题&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;mysql 自增 id 的问题&lt;/p&gt;
+&lt;p&gt;先设置id&lt;/p&gt;
+&lt;p&gt;再删除表（delete
+        
+      
+    
+    </summary>
+    
+      <category term="Mysql" scheme="http://www.wzzzzzz.com/categories/Mysql/"/>
+    
+    
+      <category term="Mysql" scheme="http://www.wzzzzzz.com/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>进程和线程的关系</title>
+    <link href="http://www.wzzzzzz.com/cao-zuo-xi-tong/2020-11-22-jin-cheng-he-xian-cheng-de-guan-xi/"/>
+    <id>http://www.wzzzzzz.com/cao-zuo-xi-tong/2020-11-22-jin-cheng-he-xian-cheng-de-guan-xi/</id>
+    <published>2020-11-22T13:57:50.000Z</published>
+    <updated>2023-09-03T16:57:03.281Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+      <category term="操作系统" scheme="http://www.wzzzzzz.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+      <category term="进程" scheme="http://www.wzzzzzz.com/tags/%E8%BF%9B%E7%A8%8B/"/>
+    
+      <category term="线程" scheme="http://www.wzzzzzz.com/tags/%E7%BA%BF%E7%A8%8B/"/>
+    
+      <category term="并发" scheme="http://www.wzzzzzz.com/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 数组</title>
+    <link href="http://www.wzzzzzz.com/java-ji-chu/java-shu-zu/"/>
+    <id>http://www.wzzzzzz.com/java-ji-chu/java-shu-zu/</id>
+    <published>2020-11-15T05:38:50.000Z</published>
+    <updated>2020-11-15T14:06:43.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;java-数组&quot;&gt;Java 数组&lt;/span&gt;&lt;/h1&gt;
+&lt;h4&gt;&lt;span id=&quot;java-中数组是对象证明&quot;&gt;Java 中数组是对象，证明：&lt;/span&gt;&lt;/h4&gt;
+&lt;pre class=&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Java基础" scheme="http://www.wzzzzzz.com/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="数组" scheme="http://www.wzzzzzz.com/tags/%E6%95%B0%E7%BB%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 为什么不能申明成一个基本数据类型的集合？</title>
+    <link href="http://www.wzzzzzz.com/java-ji-chu/java-wei-shi-me-bu-neng-shen-ming-cheng-yi-ge-ji-ben-shu-ju-lei-xing-de-ji-he/"/>
+    <id>http://www.wzzzzzz.com/java-ji-chu/java-wei-shi-me-bu-neng-shen-ming-cheng-yi-ge-ji-ben-shu-ju-lei-xing-de-ji-he/</id>
+    <published>2020-11-14T16:18:35.000Z</published>
+    <updated>2020-11-14T17:01:07.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;java-为什么不能申明成一个基本数据类型的集合&quot;&gt;Java 为什么不能申明成一个基本数据类型的集合？&lt;/span&gt;&lt;/h1&gt;
+&lt;h3&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+      <category term="Java基础" scheme="http://www.wzzzzzz.com/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="基本数据类型" scheme="http://www.wzzzzzz.com/tags/%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
+    
+      <category term="集合" scheme="http://www.wzzzzzz.com/tags/%E9%9B%86%E5%90%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git 保存密码</title>
+    <link href="http://www.wzzzzzz.com/article/git-bao-cun-mi-ma/"/>
+    <id>http://www.wzzzzzz.com/article/git-bao-cun-mi-ma/</id>
+    <published>2020-08-11T16:00:00.000Z</published>
+    <updated>2020-12-13T06:30:09.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;git-保存密码&quot;&gt;Git 保存密码&lt;/span&gt;&lt;/h1&gt;
+&lt;h3&gt;&lt;span id=&quot;编辑git文件&quot;&gt;编辑git文件&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;进入git项目根目录&lt;/strong&gt;：&lt;br&gt;
+1、linux : vi
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Git" scheme="http://www.wzzzzzz.com/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Springboot 整合 Redisson</title>
+    <link href="http://www.wzzzzzz.com/article/springboot-zheng-he-redisson/"/>
+    <id>http://www.wzzzzzz.com/article/springboot-zheng-he-redisson/</id>
+    <published>2020-07-22T16:00:00.000Z</published>
+    <updated>2020-11-07T16:32:53.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1&gt;&lt;span id=&quot;springboot-整合-redisson&quot;&gt;Springboot 整合 Redisson&lt;/span&gt;&lt;/h1&gt;
+&lt;h3&gt;&lt;span id=&quot;1-添加-maven-依赖&quot;&gt;1. 添加 Maven 依赖&lt;/span&gt;&lt;/h3&gt;
+&lt;pre
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Redis" scheme="http://www.wzzzzzz.com/tags/Redis/"/>
+    
+      <category term="缓存" scheme="http://www.wzzzzzz.com/tags/%E7%BC%93%E5%AD%98/"/>
+    
+  </entry>
+  
+</feed>
